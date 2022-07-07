@@ -1,5 +1,5 @@
 export const globalConstants = {
-    API_URL: 'https://jsonnew.herokuapp.com/users',
+    API_URL: 'https://jsonnew.herokuapp.com/',
 }
 
 export const authConstants = {
